@@ -48,7 +48,7 @@ class MainActivity() : AppCompatActivity(), Parcelable {
         //set a listener for the button:
         button.setOnClickListener {
             Log.v("MainActivity", "Button Clicked")
-            Toast.makeText(it.context, "Clicked Button!", Toast.LENGTH_SHORT).show()
+           // Toast.makeText(it.context, "Clicked Button!", Toast.LENGTH_SHORT).show()
             counter++
             //Update the text field with the incremented value
             textView.text = counter.toString()
@@ -58,7 +58,7 @@ class MainActivity() : AppCompatActivity(), Parcelable {
                 // Show upgrade button and set onClickListener
                 upgradeButton.visibility = View.VISIBLE
                 upgradeButton.setOnClickListener {
-                    button.text = "Add 2"
+                    //button.text = "Add 2"
 
                     // Update original button to add 2 instead of `
                     button.setOnClickListener {
