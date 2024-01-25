@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tap_Counter_App</string>
+    <string name="add">Add 1</string>
+    <string name="_0">0</string>
+    <string name="upgrade_to_add_2">Upgrade to Add 2</string>
+    <string name="add2">Upgrade to Add 2</string>
+</resources>
