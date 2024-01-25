@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='TapCounterGIFV2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='TapCounterGIF_V2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with screentoGIF 
 
